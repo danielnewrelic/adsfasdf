@@ -1,8 +1,7 @@
 # [Replace this with your project title]
 
 ## About Me
-
-## The Premise
+asdf
 
 ## Tools used
 
